@@ -30,5 +30,6 @@ public class VehicleTest {
         System.out.println("Color:" + vehicle.getColor());
         System.out.println("Year:" + vehicle.getYear());
         System.out.println("Price: $ " + vehicle.getPrice());
+        System.out.println("*************************");
     }
 }
