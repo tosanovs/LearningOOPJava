@@ -31,5 +31,6 @@ public class VehicleTest {
         System.out.println("Year:" + vehicle.getYear());
         System.out.println("Price: $ " + vehicle.getPrice());
         System.out.println("*************************");
+        System.out.println("Simon Tosanov");
     }
 }
